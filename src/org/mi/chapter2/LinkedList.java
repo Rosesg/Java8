@@ -22,6 +22,15 @@ public class LinkedList {
         }
     }
 
+    // 暴露给外部的删除方法
+    public void del(int data) {
+        if (this.root.getData() == data) {
+            this.root = this.root.next;
+        }else {
+            this.root.delNode(data);
+        }
+    }
+
     private class Node {
         private int data;
         private Node next;
@@ -48,6 +57,17 @@ public class LinkedList {
             if (this.next != null) {    // 出口
                 System.out.println(this.next.getData() + "、");
                 this.next.printNode(); // 递归
+            }
+        }
+
+        // 删除节点
+        private void delNode(int data) {
+            if (this.next != null) {
+                if (this.next.getData() == data) {
+                    this.next = this.next.next;
+                }else {
+                    this.next.delNode(data);
+                }
             }
         }
     }
