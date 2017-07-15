@@ -1,4 +1,4 @@
-package org.mi.chapter1;
+package org.mi.jdkbase.chapter1;
 
 /**
  *  1. Java有8种基本数据类型

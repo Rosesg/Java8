@@ -1,4 +1,4 @@
-package org.mi.chapter2;
+package org.mi.jdkbase.chapter2;
 
 /**
  *  链表

@@ -1,4 +1,4 @@
-package org.mi.chapter1;
+package org.mi.jdkbase.chapter1;
 
 /**
  * 变量：系统为程序分配的一块内存单元，用来存储各种类型的数据

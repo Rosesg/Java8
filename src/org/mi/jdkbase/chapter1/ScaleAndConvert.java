@@ -1,4 +1,4 @@
-package org.mi.chapter1;
+package org.mi.jdkbase.chapter1;
 
 /**
  *  进制和转换

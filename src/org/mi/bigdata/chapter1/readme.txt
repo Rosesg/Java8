@@ -1,0 +1,30 @@
+day01
+    linux快速上手
+    虚拟机安装及网络配置
+    终端连接/ssh免密登陆
+    文件/权限/用户/工具/软件安装
+    yum本地库搭建
+    防火墙配置详解
+day02
+    shell脚本编程
+    crontab
+    高并发网站技术架构简介
+    nginx负载均衡搭建
+    keepalived高可用搭建
+    自动化软件安装脚本
+    redis集群搭建（备选）
+day03
+    zookeeper介绍
+    zookeeper安装
+    zookeeper基本api
+    zookeeper编程案例
+day04
+    并发编程
+    反射，动态代理
+    nio
+    netty入门
+day05
+    netty封装RPC框架
+    dubbo
+    hadoop rpc
+    jvm

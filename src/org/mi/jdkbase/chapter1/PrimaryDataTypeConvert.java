@@ -1,4 +1,4 @@
-package org.mi.chapter1;
+package org.mi.jdkbase.chapter1;
 
 /**
  *  基本数据类型的转换

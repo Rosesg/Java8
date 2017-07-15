@@ -1,4 +1,4 @@
-package org.mi.chapter1;
+package org.mi.jdkbase.chapter1;
 
 /**
  *  位运算符：效率最高的
